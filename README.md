@@ -5,7 +5,7 @@ A beautiful, responsive Single Page Application (SPA) Quiz App built with vanill
 ![Home Page View](./home.png)
 
 ## Features
-- **Four Distinct Categories:** Choose between Pipes and Cisterns, Probability, Problems on Age, and Profit and Loss.
+- **Four Distinct Categories:** Choose between MongoDB, Express.js, React, and Node.js.
 - **Dynamic 10-Second Timer:** A built-in timer adds pressure to each question. Time runs out? The answer is revealed automatically!
 - **Real-Time Score Tracking:** Watch your score increment dynamically as you select the correct options.
 - **Detailed Result Analytics:** A comprehensive Results dashboard tracks total time, attempts, right/wrong answers, and calculates your final percentage.
